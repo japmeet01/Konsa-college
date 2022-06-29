@@ -125,7 +125,7 @@ h6 {
 }
 #header.header-scrolled,
 #header.header-inner-pages {
-  background: rgb(45, 33, 114);
+  background: rgb(64, 48, 155);
   padding: 2px 0;
 }
 #header .logo {
@@ -1460,7 +1460,7 @@ section {
 
 .footer-logo {
   font-weight: bold;
-  color: #4435cc;
+  color: rgb(72, 54, 177);
   font-size: 2rem;
 }
 
