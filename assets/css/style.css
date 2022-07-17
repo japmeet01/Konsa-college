@@ -1470,7 +1470,13 @@ section {
 # Team
 --------------------------------------------------------------*/
 .img-fluid-features {
-  width: 60%;
+  width: 65%;
+  height: 110%;
+  margin-top: -40px;
+  /* margin-bottom: 10px; */
+}
+.feat {
+  margin-top: 40px;
 }
 .team-scroll {
   height: 200px;
