@@ -407,7 +407,7 @@ h6 {
 }
 #hero h1 {
   margin: 0;
-  font-size: 42px;
+  font-size: 48px;
   font-weight: 700;
   line-height: 64px;
   color: #fff;
@@ -678,6 +678,8 @@ section {
   background-repeat: no-repeat;
   background-size: cover;
   min-height: 400px;
+  text-align: center;
+  margin-bottom: -5%;
 }
 
 /*--------------------------------------------------------------
@@ -1467,6 +1469,16 @@ section {
 /*--------------------------------------------------------------
 # Team
 --------------------------------------------------------------*/
+.img-fluid-features {
+  width: 60%;
+}
+.team-scroll {
+  height: 200px;
+  overflow: scroll;
+}
+.team-row-2 {
+  margin-top: 25px;
+}
 .team {
   background: linear-gradient(
       90deg,
