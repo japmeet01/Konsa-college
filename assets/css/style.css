@@ -1130,7 +1130,7 @@ section {
   font-size: 20px;
   color: #2c4964;
   font-weight: 700;
-  margin: 10px 0;
+  margin: 5px 0;
 }
 .contact .info-box p {
   padding: 0;
@@ -1272,11 +1272,11 @@ section {
 }
 
 #footer {
-  background: rgb(255, 255, 255);
+  /* background: rgb(255, 82, 82); */
   padding: 0 0 0px 0;
   color: #212529;
   font-size: 14px;
-  background: linear-gradient(139deg, #5846f9 0%, #7b27d8 100%);
+  background: white;
 }
 #footer .footer-newsletter {
   padding: 0px 0;
@@ -1301,6 +1301,7 @@ section {
   box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.1);
   text-align: left;
 }
+
 #footer .footer-newsletter form input[type="email"] {
   border: 0;
   padding: 4px 4px;
@@ -1404,7 +1405,7 @@ section {
   text-decoration: none;
 }
 #footer .copyright {
-  color: white;
+  color: #1f1767;
   text-align: center;
   float: left;
 }
@@ -1412,10 +1413,10 @@ section {
   float: right;
   text-align: center;
   font-size: 13px;
-  color: white;
+  color: #1f1767;
 }
 #footer .credits a {
-  color: white;
+  color: #1f1767;
 }
 
 @media (max-width: 575px) {
@@ -1429,7 +1430,10 @@ section {
 }
 
 /* pricinggggg */
-
+.premium-para {
+  font-size: larger;
+  color: #635c5c;
+}
 #pricing {
   text-align: center;
   /* padding:6%; */
